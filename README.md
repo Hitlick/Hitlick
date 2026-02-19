@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hewlett Naffin (Hitlick)
 
-<!--
-**Hitlick/Hitlick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Supervisor de Implantação e Suporte com foco em **Suporte N1/N2**, **automação** e **integração de sistemas**.  
+Construindo projetos em **PHP** e **SQL** para consolidar base em backend e montar portfólio.
 
-Here are some ideas to get you started:
+## 🚀 Projetos em destaque
+- **PHP TODO (CRUD + JSON + session/flash)** — app simples para aprender PHP sem framework  
+  👉 Repositório: https://github.com/Hitlick/php-todo-basico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologias
+- PHP 8+  
+- SQL (MySQL)  
+- HTML + CSS  
+- Git/GitHub (em evolução)
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/hewlettnaffin
